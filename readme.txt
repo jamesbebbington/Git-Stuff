@@ -1,5 +1,5 @@
 Amazing Git Stuff
 
-This is great.
+This is great. And not at all confusing.
 
 
